@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markahofmeister
-- 👀 I’m interested in Robotics & eletrical engineering
-- 🌱 I’m currently learning bitcoin mining software & hardware 
+- 👀 I’m interested in Robotics, Cyber-physical Systems, & user-centric product design.
+- 🌱 I’m currently learning PCB design, digital circuits, C++
 - 💞️ I’m looking to collaborate on autonomous systems, PCB design, and electronic design projects
 - 📫 How to reach me:
 -     716-261-0079
